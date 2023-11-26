@@ -44,8 +44,8 @@ def main() -> None:
         print(f'{email}')
         print(f'{phone}')
         print()
-        print(f'Hair: {hair_color:20} Eyes: {eye_color}')
-        print(f'Month: {month_started:17} Training: {training}')
+        print(f'Hair: {hair_color:25} Eyes: {eye_color}')
+        print(f'Month: {month_started:24} Training: {training}')
 
     display_badge()
 
