@@ -1,6 +1,9 @@
-"""
-Purpose: Format strings and display them to the screen.
-"""
+'''
+Assignment:
+Prompt the user for their first name. Then, prompt them for their last name. 
+Display the text back all on one line saying, "Your name is last-name, 
+first-name, last-name".
+'''
 
 
 def main() -> None:

@@ -1,5 +1,5 @@
 '''
-Assignment Instructions:
+Assignment:
 Write a program that asks a user for their favorite color, 
 then allow them to type in their color. Finally, have the 
 program respond to them by displaying the text 
