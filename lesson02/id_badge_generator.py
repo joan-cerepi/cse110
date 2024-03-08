@@ -1,6 +1,6 @@
-"""
+'''
 Purpose: Team Activity about formatting text in Python.
-"""
+'''
 
 
 def formatter(func):
@@ -21,7 +21,7 @@ def main() -> None:
     """Main function of the program."""
     print('Please enter the following information:')
     print()
-    first_name = input('First name: ')
+    first_name = input('First name: ').capitalize()
     last_name = input('Last name: ').upper()
     email = input('Email address: ').lower()
     phone = input('Phone number: ')
