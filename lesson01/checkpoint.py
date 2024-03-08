@@ -1,5 +1,8 @@
 """
-Purpose: Display text to the screen using print().
+Assignment:
+It is a tradition in almost all programming classes to begin by creating 
+a program that displays the words "Hello World!" to the screen. 
+We will continue that tradition in this assignment.
 """
 
 
