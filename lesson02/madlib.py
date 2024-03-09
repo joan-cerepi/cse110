@@ -3,7 +3,7 @@ Assignment for practicing text input/output and formatting.
 '''
 
 import random
-from madlib_list import madlib
+from madlibs import madlib
 
 
 def main() -> None:
