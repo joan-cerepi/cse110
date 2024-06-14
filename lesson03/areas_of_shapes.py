@@ -68,7 +68,7 @@ def main() -> None:
     print(f'The area of the rectangle is: {rect_area}')
     print()
 
-    print('What is the area of the circle?')
+    print('What is the radius of the circle?')
     circle_area = calculate_circle_area()
     print(f'The area of the circle is: {circle_area}')
     
